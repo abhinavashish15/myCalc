@@ -5,6 +5,7 @@
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
+    <option/>
     <option name="id" value="Android" />
   </component>
 </project>
