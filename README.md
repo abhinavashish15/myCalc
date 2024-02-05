@@ -1,3 +1,3 @@
 # myCalc
 
-Simple calculator using Android Studio for the first time
+Simple calculator using Java in Android Studio.
